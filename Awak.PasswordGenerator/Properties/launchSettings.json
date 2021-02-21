@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Awak.PasswordGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "-l -n -c 30 -pwc 10 -s -a"
+    }
+  }
+}
